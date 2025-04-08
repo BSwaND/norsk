@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-08T20:12:51.334+02:00
-edited_seconds: 150
+updated_at: 2025-04-08T21:44:46.747+02:00
+edited_seconds: 210
 ---
 
 |           | Ubesteamt entall | Besteamt entall | Ubesteamt flertall | Besteamt flertall | Перевод                             |
@@ -29,3 +29,19 @@ edited_seconds: 150
 | et        | søsken           | søskenet        | søsken             | søsknene          | братья и сёстры (собирательно)      |
 | et        | barn             | barnet          | barn*              | barna*            | ребёнок                             |
 
+
+### Единый список слов, меняющих корень (из  таблицы выше)
+
+| Артикль  | Ubesteamt entall | Besteamt entall | Ubesteamt flertall | Besteamt flertall | Примечание (изменение корня)              |
+| -------- | ---------------- | --------------- | ------------------ | ----------------- | ----------------------------------------- |
+| **(en)** |                  |                 |                    |                   |                                           |
+| en       | mann             | mannen          | menn               | mennene           | "mann" → "menn" (a → e)                   |
+| en       | far              | faren           | fedre              | fedrene           | "far" → "fedre" (a → e)                   |
+| en       | bror             | broren          | brødre             | brødrene          | "bror" → "brødre" (o → ø)                 |
+| en       | forelder         | forelderen      | foreldre           | foreldrene        | "forelder" → "foreldre" (e → ø)           |
+| en       | besteforelder    | besteforelderen | besteforeldre      | besteforeldrene   | "besteforelder" → "besteforeldre" (e → ø) |
+| **(ei)** |                  |                 |                    |                   |                                           |
+| ei       | mor              | mora            | mødre              | mødrene           | "mor" → "mødre" (o → ø)                   |
+| ei       | datter           | dattera         | døtre              | døtrene           | "datter" → "døtre" (a → ø)                |
+| **(et)** |                  |                 |                    |                   |                                           |
+| et       | søsken           | søskenet        | søsken             | søsknene          | Не меняет корень, но форма особая         |
