@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-02T17:07:42.493+02:00
-edited_seconds: 120
+updated_at: 2025-04-08T20:12:51.334+02:00
+edited_seconds: 150
 ---
 
 |           | Ubesteamt entall | Besteamt entall | Ubesteamt flertall | Besteamt flertall | Перевод                             |
@@ -28,3 +28,4 @@ edited_seconds: 120
 | **(et)**  |                  |                 |                    |                   |                                     |
 | et        | søsken           | søskenet        | søsken             | søsknene          | братья и сёстры (собирательно)      |
 | et        | barn             | barnet          | barn*              | barna*            | ребёнок                             |
+
