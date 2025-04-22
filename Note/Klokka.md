@@ -1,28 +1,28 @@
 ---
-updated_at: 2025-04-22T19:34:44.283+02:00
-edited_seconds: 90
+updated_at: 2025-04-22T22:52:33.120+02:00
+edited_seconds: 180
 ---
-## Дополнительные выражения для указания времени
+### Дополнительные выражения для указания времени
+| Норвежский            | Русский       | Пример                                                          |
+| --------------------- | ------------- | --------------------------------------------------------------- |
+| **om morgenen**       | утром         | Jeg trener **om morgenen**. – Я тренируюсь **утром**.           |
+| **om formiddagen**    | до полудня    | Jeg jobber **om formiddagen**. – Я работаю **до полудня**.      |
+| **om ettermiddagen**  | после полудня | Vi går tur **om ettermiddagen**. – Мы гуляем **после полудня**. |
+| **om kvelden**        | вечером       | Jeg ser på film **om kvelden**. – Я смотрю фильм **вечером**.   |
+| **om natten**         | ночью         | Jeg sover **om natten**. – Я сплю **ночью**.                    |
+| **nå**                | сейчас        | Jeg gjør lekser **nå**. – Я делаю домашку **сейчас**.           |
+| **snart**             | скоро         | Bussen kommer **snart**. – Автобус приедет **скоро**.           |
+| **om en time**        | через час     | Vi drar hjem **om en time**. – Мы уезжаем домой **через час**.  |
+| **for en time siden** | час назад     | Han dro **for en time siden**. – Он ушёл **час назад**.         |
 
-|Норвежский|Русский|
-|---|---|
-|om morgenen|утром|
-|om formiddagen|до полудня|
-|om ettermiddagen|после полудня|
-|om kvelden|вечером|
-|om natten|ночью|
-|nå|сейчас|
-|snart|скоро|
-|om en time|через час|
-|for en time siden|час назад|
 
-## Примеры использования
+### Примеры использования
 
 - Klokken er ti på halv elleve om kvelden - Без десяти половина одиннадцатого вечера
 - Klokken er fem over halv ni om morgenen - Пять минут девятого утра
 - Klokken er tjue på ti om formiddagen - Без двадцати десять утра
 
-## Часто используемые временные маркеры
+### Часто используемые временные маркеры
 
 - **På minuttet** - Точно в (указанное время)
 - **Akkurat nå** - Прямо сейчас
