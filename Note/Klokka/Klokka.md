@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-24T17:54:53.068+02:00
-edited_seconds: 360
+updated_at: 2025-04-24T17:56:09.032+02:00
+edited_seconds: 390
 ---
 
 
@@ -8,7 +8,7 @@ edited_seconds: 360
 ```txt
 
                     (12)
-		             |
+                     |
              på      |    over
                      |
  kvart på (9) -------+-------  (3) kvart over
@@ -18,18 +18,6 @@ edited_seconds: 360
                     (6)
                     halv
 ```
-
-		       (12)
-			|
-		på      |    over
-			|
-    kvart på (9) -------+-------  (3) kvart over
-         	        |
-	     over halv  |   på halv
-		        |
-		       (6)
-		       halv
-
 
 ***
 ``
