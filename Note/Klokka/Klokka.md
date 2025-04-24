@@ -1,28 +1,38 @@
 ---
-updated_at: 2025-04-24T17:48:50.201+02:00
-edited_seconds: 280
+updated_at: 2025-04-24T17:53:51.532+02:00
+edited_seconds: 290
 ---
 
 
 
 ```txt
 
-					 (12)
-					   |
-			   på      |    over
-					   |
-   kvart på (9) -------+-------  (3) kvart over
-					   |
-			over halv  |   på halv
-					   |
-					  (6)
-					  halv
+		       (12)
+			|
+		på      |    over
+			|
+    kvart på (9) -------+-------  (3) kvart over
+         	        |
+	     over halv  |   på halv
+		        |
+		       (6)
+		       halv
 ```
 
+		       (12)
+			|
+		på      |    over
+			|
+    kvart på (9) -------+-------  (3) kvart over
+         	        |
+	     over halv  |   på halv
+		        |
+		       (6)
+		       halv
 
 
 ***
-
+``
 
 
 ### 🕒 Расшифровка по секторам:
