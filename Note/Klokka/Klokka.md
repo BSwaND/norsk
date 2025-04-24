@@ -1,12 +1,11 @@
 ---
-updated_at: 2025-04-24T17:46:28.686+02:00
-edited_seconds: 220
+updated_at: 2025-04-24T17:47:46.407+02:00
+edited_seconds: 240
 ---
 
 
 
-
-```
+***
 					 (12)
 					   |
 			   på      |    over
@@ -18,8 +17,7 @@ edited_seconds: 220
 					  (6)
 					  halv
 
-```
-
+***
 
 
 
