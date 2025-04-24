@@ -1,20 +1,20 @@
 ---
-updated_at: 2025-04-24T17:44:09.707+02:00
-edited_seconds: 230
+updated_at: 2025-04-24T17:46:28.686+02:00
+edited_seconds: 200
 ---
 
 
 ```
-				  (12)
-				   |
-		   på      |    over
-				   |
-kvart på (9)-------+-------(3) kvart over
-				   |
-		over halv  |   på halv
-				   |
-				  (6)
-				  halv
+					 (12)
+					   |
+			   på      |    over
+					   |
+   kvart på (9) -------+-------  (3) kvart over
+					   |
+			over halv  |   på halv
+					   |
+					  (6)
+					  halv
 
 ```
 
